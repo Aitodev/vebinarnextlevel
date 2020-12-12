@@ -444,11 +444,37 @@ header{
     background-color: #fff;
 }
 .fourth__container{
-    background-image: url(../img/prevision.kg3dQ.png);
+    /* background-image: url(../img/prevision.kg3dQ.png); */
     background-repeat: no-repeat;
     background-position: right;
     text-align: center;
 }
+
+/* .new_add_photo{
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+
+} */
+
+/* .new_photo_add{
+    background-image: url(../img/2photoem.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 40%;
+} */
+
+.new_photo_add{
+    margin-left: 784px;
+    margin-top: -530px;
+    margin-bottom: 200px;
+}
+
+.new_photo_add2{
+    margin-left: 784px;
+    margin-top: -190px;
+} 
+
 .fourth-h2{
     color: #000000;
     font-size: 42px;
